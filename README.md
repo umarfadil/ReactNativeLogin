@@ -12,7 +12,7 @@ Type following command :
 > npm install  
 
 At this point, you should be able to run the project.
-To run your project on your device/emulator at Debug configuration, type :
+To run your project on your device/emulator, type :
 > react-native run-android  
 
 Or if you want to run at iOS simulator, run:  
